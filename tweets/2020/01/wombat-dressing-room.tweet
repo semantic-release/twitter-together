@@ -1,0 +1,4 @@
+Wombat Dressing Room, a 2FA proxy for npm 🎉
+
+automate publishing to npm, while keeping 2FA enabled; from our friends at @GoogleCloud:
+https://opensource.googleblog.com/2020/01/wombat-dressing-room-npm-publication_10.html
