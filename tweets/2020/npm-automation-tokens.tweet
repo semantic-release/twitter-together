@@ -1,0 +1,5 @@
+📯 semantic-release release now works with the new npm automation tokens. That means you can enable two-factor auth on your account, while still automate releases through CI.
+
+Thanks for confirming @grantila @hamzahamidii @thenieds
+
+https://github.blog/changelog/2020-10-02-npm-automation-tokens/
