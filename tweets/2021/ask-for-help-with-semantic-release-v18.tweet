@@ -1,0 +1,6 @@
+📯 semantic-release v18 is happening!
+
+We are dropping support for Node 10 & 12, and will likely make it a native ES Module. 
+
+We need to upgrade the core plugins as part of that. Pull requests welcome 💝💐
+https://github.com/semantic-release/semantic-release/issues/2054
