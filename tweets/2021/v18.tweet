@@ -1,0 +1,5 @@
+🤖📯 semantic-release v18 is out!
+
+Upgrade should be straight forward, we only dropped support for Node 10 + Node 12. Minimum required version is current Node 14 LTS.
+
+Next up: ES Modules!
